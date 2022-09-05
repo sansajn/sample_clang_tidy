@@ -1,4 +1,6 @@
-This directory contains Clang Tidy analyze integration.
+# Clang Tidy sample
+
+This directory contains Clang Tidy analyze integration with CMake sample project.
 
 Requires *clang-tidy* package to be installed with
 
